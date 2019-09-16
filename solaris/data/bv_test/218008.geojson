@@ -1,0 +1,1 @@
+[{"type": "FeatureCollection", "features": [{"id": "0", "type": "Feature", "properties": {}, "geometry": {"type": "Polygon", "coordinates": [[[462.0, 1067.0], [920.0, 1242.0], [968.0, 1117.0], [511.0, 941.0], [462.0, 1067.0]]]}, "bbox": [462.0, 941.0, 968.0, 1242.0]}], "bbox": [462.0, 941.0, 968.0, 1242.0]}]
